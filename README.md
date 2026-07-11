@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:6d28d9&height=220&section=header&text=Ananya%20Bhui&fontSize=58&fontColor=e9d5ff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20|%20AI%2FML%20%26%20Backend%20Systems&descAlignY=55&descSize=18&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:6d28d9&height=220&section=header&text=Ananya%20Bhui&fontSize=58&fontColor=e9d5ff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20specializing%20in%20AI%20and%20Backend%20Systems&descAlignY=55&descSize=18&descColor=c4b5fd" width="100%"/>
 
 <a href="https://github.com/ananya-7123">
   <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+scalable+backend+systems;Building+GenAI+%26+RAG-powered+applications;Bridging+algorithms+with+production+software;Open+to+Software+%26+AI%2FML+Engineering+roles&font=Fira+Code&center=true&width=650&height=45&color=a78bfa&vCenter=true&size=20" />
