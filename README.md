@@ -16,7 +16,7 @@
 
 <a href="https://portfolio-notv.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-1e1b4b?style=for-the-badge&logo=vercel&logoColor=e9d5ff" /></a>
 <a href="https://www.linkedin.com/in/ananya-bhui/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ananyabhui7123@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:ananyabhui7123@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" /></a>
 <a href="https://github.com/ananya-7123"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
@@ -174,13 +174,13 @@ Developing AI-powered backend services for **ZTrust IAM**, enabling intelligent 
 ## 📜 Certifications
 
 **IBM**
-<br/><img src="https://img.shields.io/badge/IBM_DevOps_Software_Engineering_Professional_Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+<br/><a href="https://drive.google.com/file/d/1-ahukgqx2FdUst-HX8PmeYQtpsFeeFu7/view?usp=sharing"><img src="https://img.shields.io/badge/IBM_DevOps_Software_Engineering_Professional_Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 
 **AWS**
-<br/><img src="https://img.shields.io/badge/AWS_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<br/><a href="https://drive.google.com/file/d/1hQj9nzS92GGpwEggx5Q-TQJPTf8ij8i_/view?usp=sharing"><img src="https://img.shields.io/badge/AWS_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 
 **Udemy**
-<br/><img src="https://img.shields.io/badge/Machine_Learning_A--Z_2026-6d28d9?style=for-the-badge&logo=udemy&logoColor=white" />
+<br/><a href="https://drive.google.com/file/d/1jANa7Fb3zpXsmTkBKg12SdFXZjfqyWEW/view?usp=sharing"><img src="https://img.shields.io/badge/Machine_Learning_A--Z_2026-6d28d9?style=for-the-badge&logo=udemy&logoColor=white" /></a>
 
 ---
 
@@ -198,17 +198,11 @@ Developing AI-powered backend services for **ZTrust IAM**, enabling intelligent 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananya-7123&show_icons=true&theme=nord&border_color=6d28d9&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d0b1e" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-7123&layout=compact&theme=nord&border_color=6d28d9&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0b1e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ananya-7123&show_icons=true&hide_border=true&border_color=6d28d9&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d0b1e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-7123&layout=compact&hide_border=true&border_color=6d28d9&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0b1e" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=ananya-7123&theme=nord&border=6d28d9&background=0D0B1E&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=c4b5fd" />
+<img src="https://streak-stats.demolab.com/?user=ananya-7123&hide_border=true&border=6d28d9&background=0D0B1E&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=c4b5fd" />
 
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ananya-7123&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ## 📈 Contribution Activity
@@ -228,17 +222,17 @@ Developing AI-powered backend services for **ZTrust IAM**, enabling intelligent 
 ## 🎯 Current Focus
 
 ```yaml
-currentFocus:
-  learning:
+CURRENT_FOCUS:
+  LEARNING:
     - Advanced RAG architectures & agentic workflows
     - Distributed systems & microservices at scale
-  building:
+  BUILDING:
     - Email Workflow Assistant
     - Enterprise RAG pipelines for ZTrust & Keycloak
-  exploring:
+  EXPLORING:
     - Local LLM deployment (Ollama, Llama 3.2)
     - Cloud-native, security-first backend design
-  openTo:
+  OPEN_TO:
     - Software Engineering Roles
     - AI/ML Engineering Roles
     - Backend Development Roles
